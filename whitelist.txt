@@ -1,1 +1,4 @@
 homeassistant
+bespokepost.com
+link.bespokepost.com
+link.bespokepost.com*
