@@ -2,4 +2,5 @@ homeassistant
 bespokepost.com
 link.bespokepost.com
 link.bespokepost.com*
+reddit.com
 reddit.com*
