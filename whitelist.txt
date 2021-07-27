@@ -5,3 +5,13 @@ link.bespokepost.com*
 reddit.com
 reddit.com*
 pubads.g.doubleclick.net
+#########################################################################################
+##
+##  SONOS WHITELIST DOMAINS
+##
+##  feature-config.sslauth.sonos.com
+##  oauth.sslauth.sonos.com
+##  update-services.sonos.com
+##  service-catalog.ws.sonos.com
+##
+#########################################################################################
