@@ -9,9 +9,9 @@ pubads.g.doubleclick.net
 ##
 ##  SONOS WHITELIST DOMAINS
 ##
-##  feature-config.sslauth.sonos.com
-##  oauth.sslauth.sonos.com
-##  update-services.sonos.com
-##  service-catalog.ws.sonos.com
+feature-config.sslauth.sonos.com
+oauth.sslauth.sonos.com
+update-services.sonos.com
+service-catalog.ws.sonos.com
 ##
 #########################################################################################
