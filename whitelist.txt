@@ -5,6 +5,9 @@ link.bespokepost.com*
 reddit.com
 reddit.com*
 pubads.g.doubleclick.net
+*intuit.com*
+intuit.com*
+intuit.com
 #########################################################################################
 ##
 ##  SONOS WHITELIST DOMAINS
