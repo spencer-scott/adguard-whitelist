@@ -8,6 +8,8 @@ pubads.g.doubleclick.net
 *intuit.com*
 intuit.com*
 intuit.com
+fully.com
+fully.com*
 #########################################################################################
 ##
 ##  SONOS WHITELIST DOMAINS
